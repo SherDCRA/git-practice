@@ -8,7 +8,6 @@ GitHub is a free online code hosting service that runs using git. We'll use git 
 
 ***Note***: if you are already comfortable using git from the command line, you can follow along with these instructions, replacing GitHub Desktop operations with the appropriate terminal commands. Both approaches are valid!! Phil personally prefers GitHub Desktop, but many prefer the command line instead. 
 
-## Preparation
 
 You should already have made an account on [GitHub](https://github.com/) and downloaded [GitHub Desktop](https://desktop.github.com/). 
 
